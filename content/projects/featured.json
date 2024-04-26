@@ -1,0 +1,75 @@
+[
+	{
+		"project": "Dion",
+		"url": "https://dionforge.vercel.app/",
+		"repo": "Public",
+		"descriptionTitle": "Dion : ",
+		"description": "Your Comprehensive Website Builder and Project Management Hub",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "prisma", 		"name": "Prisma", 		"type": "devicon" },
+			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
+			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
+			{ "key": "tailwindcss", "name": "TailwindCSS", 	"type": "devicon" },
+			{ "key": "stripe",	    "name": "Stripe", 	    "type": "devicon" },
+			{ "key": "postgresql",	"name": "Postgresql", 	"type": "devicon" },
+			{ "key": "shacdn-ui",	"name": "shacdn-ui", 	"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "clerk",		"name": "Clerk", 	    "type": "devicon" }
+		]
+	},
+	{
+		"project": "Cogito AI",
+		"url": "https://cogito-ai-summarizer.vercel.app/",
+		"repo": "Public",
+		"descriptionTitle": "An open-source article summarizer",
+		"description": "Cogito symbolizes the AI's ability to think and reason, reflecting its advanced cognitive capabilities.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "open-api", 	"name": "Open-API", 	"type": "devicon" },
+			{ "key": "vite", 		"name": "Vite", 		"type": "devicon" },
+			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "tailwindcss",	"name": "TailwindCSS", 	"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "Personal Portfolio",
+		"url": "https://abhishekmanhar.vercel.app/",
+		"repo": "Private",
+		"descriptionTitle": "A Personal Portfolio",
+		"description": "Built using Next.js, TailWindCSS, and TypeScript.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "typescript", 	"name": "TypeScript", 	"type": "devicon" },
+			{ "key": "vite", 		"name": "Vite", 		"type": "devicon" },
+			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "tailwindcss",	"name": "TailwindCSS", 	"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	}
+]

@@ -1,0 +1,43 @@
+{
+	"acknowledgments": [
+		
+		{ 
+			"person": "Colorpong - Artist",
+			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
+			"note": "Checkout their amazing vector illustrations."
+		},
+		
+		{ 
+			"person": "Vercel - Platform",
+			"link": "https://vercel.com/docs",
+			"note": "Host your own Next.js project for free!"
+		}
+	],
+
+	"links": [
+		{ 
+			"person": "YWFT Creative Marketplace",
+			"link": "https://www.youworkforthem.com/?aff=1115",
+			"note": "Best in class creative assets."
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://www.instagram.com/abhishekmnhr/",
+			"icon": "instagram"
+		},
+		{
+			"url": "https://x.com/abhishekmnhr?t=uRnxwO-L7ZK64FIvjShNRA&s=09",
+			"icon": "twitter"
+		},
+		{
+			"url": "https://www.linkedin.com/in/abhishek-manhar-developer/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/abhishekmanhar",
+			"icon": "github"
+		}
+	]
+}

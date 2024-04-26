@@ -1,0 +1,15 @@
+{
+	"name": "Abhishek Manhar",
+	"logo": "",
+	
+	"username": {
+		"github": "abhishekmanhar",
+		"LinkedIn": "@abhishekmanhar"
+	},
+
+	"portfolio": { 
+		"forkthis": "Steal this theme! Its open-source 🥰",
+		"repo_html": "https://www.github.com/abhishekmanhar",
+		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+	}
+}
